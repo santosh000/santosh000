@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sniperwolf0" alt="sniperwolf0" /></a> </p>
 
-- 🔭 I’m currently working on *All quotes [https://allquotes.ml/](https://allquotes.ml/)*
+- 🔭 I’m currently working on *All quotes [https://allquotes.ml](https://allquotes.ml)*
 
 - 🌱 I’m currently learning **Vue.js**
 
